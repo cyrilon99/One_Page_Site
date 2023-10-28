@@ -1,0 +1,77 @@
+#heading{
+    padding: 10vh;
+    text-align: center;
+    background-image: url(../assets/ImpactTree.jpg);;
+    margin-bottom: 4vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+    color: #86a4a6;
+}
+h1{
+    font-size: 3vw;
+    font-family: Roboto Condensed,sans-serif;
+}
+#navLyst{
+    font-size: 1vw;
+}
+#navBar a{
+    font-family: Roboto Condensed,sans-serif;
+    font-size: 1vw;
+    font-weight: 700;
+    line-height: 1.5em;
+    color: black;
+    background-color: goldenrod;
+    border-radius: 5px;
+    padding: 1vw 3vw;
+    margin-right: 1vw;
+}
+
+#navBar a:hover{
+    border:2px solid black;
+
+}
+
+.content{
+    position: relative;
+
+}
+
+.content{
+    margin: 10vh;
+
+}
+.HEAD{
+    font-size: 1.5vw;
+    border-bottom: 1vh solid red;
+    
+}
+.info{
+    font-size: 1vw;
+}
+#CT, #btn{
+    margin-top: 2px;
+    font-family: Optima nova,sans-serif;
+    background-color: black;
+    padding: 3px;
+    border-radius: 0;
+    color: white;
+    width: 20%;
+}
+#panel {
+    border-top: 2px solid black;
+    padding: 1vh;
+    display: none;
+  }
+#image{
+    float: left;
+    max-width: 40%;
+    height: auto;
+    margin-right: 10vh;
+}
+#ExtraInfo{
+    padding: 1vh;
+    font-size: 1vw;
+    text-align: center;
+}
+
