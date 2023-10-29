@@ -39,6 +39,7 @@ h1{
 
 .content{
     margin: 10vh;
+    border-bottom: 2px solid black;
 
 }
 .HEAD{
